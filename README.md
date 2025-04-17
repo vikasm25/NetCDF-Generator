@@ -1,5 +1,5 @@
 # NetCDF Generator
-A GUI application for converting tabular data (CSV/Excel) to NetCDF format with multi-dimensional support and theme customization.
+A python based GUI application for converting tabular data (CSV/Excel) to NetCDF format with multi-dimensional support and theme customization.
 
 ## Features
 - 🎨 Light/Dark theme switching
