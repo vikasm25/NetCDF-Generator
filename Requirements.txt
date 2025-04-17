@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+pandas==2.0.3
+numpy==1.24.3
+xarray==2023.6.0
+netCDF4==1.6.4
