@@ -13,7 +13,7 @@ A python based GUI application for converting tabular data (CSV/Excel) to NetCDF
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/netcdf-converter.git
+    git clone https://github.com/vikasm25/NetCDF-Generator.git
     cd netcdf-converter
 
 2. **Create virtual environment (recommended)**
