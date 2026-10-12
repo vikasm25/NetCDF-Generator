@@ -1,4 +1,4 @@
-# NetCDF Grid Interpolator
+# NetCDF Grid Generator
 
 A desktop application that converts regular latitude-longitude tables in Excel or CSV format to coarser, georeferenced NetCDF files.
 
@@ -20,7 +20,7 @@ Double-click `Run App.bat`. It checks the default Python environment, installs a
 For manual setup instead:
 
 ```powershell
-cd F:\Work\NetCDF-Grid-Interpolator
+cd NetCDF Grid Generator Directory
 python -m venv .venv
 .venv\Scripts\python -m pip install -r Requirements.txt
 .venv\Scripts\python Main.py
